@@ -11,8 +11,8 @@
     "outDir": "./dist",
     "baseUrl": "./",
     "incremental": true,
-    "paths": {
+    /* "paths": {
       "@app/": [ "./src/*" ]
-    }
+    } */
   }
 }
