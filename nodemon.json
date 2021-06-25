@@ -1,0 +1,5 @@
+{
+  "wath": [ "src" ],
+  "ext": "ts",
+  "exec": "ts-node -r tsconfig-path/register IS_TS_NODE=true src/main.ts"
+}
