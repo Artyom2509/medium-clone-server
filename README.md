@@ -1,1 +1,2 @@
-# Medium-clone
+# Medium-clone server
+Technologies: NestJS, Typescript, TypeORM.
